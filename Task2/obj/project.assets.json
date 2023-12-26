@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ilyaalex/C#/CSHARP/Less1/Task1/Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "/Users/ilyaalex/C#/CSHARP/Less1/Task1/Task1.csproj",
+      "projectUniqueName": "/Users/ilyaalex/C#/CSHARP/Less1/Task2/Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "/Users/ilyaalex/C#/CSHARP/Less1/Task2/Task2.csproj",
       "packagesPath": "/Users/ilyaalex/.nuget/packages/",
-      "outputPath": "/Users/ilyaalex/C#/CSHARP/Less1/Task1/obj/",
+      "outputPath": "/Users/ilyaalex/C#/CSHARP/Less1/Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ilyaalex/.nuget/NuGet/NuGet.Config"
