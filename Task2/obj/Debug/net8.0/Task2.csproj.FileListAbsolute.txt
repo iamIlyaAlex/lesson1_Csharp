@@ -2,7 +2,6 @@
 /Users/ilyaalex/C#/CSHARP/Less1/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
 /Users/ilyaalex/C#/CSHARP/Less1/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
 /Users/ilyaalex/C#/CSHARP/Less1/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
-/Users/ilyaalex/C#/CSHARP/Less1/Task2/obj/Debug/net8.0/Task2.sourcelink.json
 /Users/ilyaalex/C#/CSHARP/Less1/Task2/bin/Debug/net8.0/Task2
 /Users/ilyaalex/C#/CSHARP/Less1/Task2/bin/Debug/net8.0/Task2.deps.json
 /Users/ilyaalex/C#/CSHARP/Less1/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
