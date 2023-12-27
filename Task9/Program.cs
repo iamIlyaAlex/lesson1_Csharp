@@ -1,39 +1,45 @@
 ﻿// большее из 2 чисел школа 
 
-if (firstNumber == secondNumber)
+using System;
+
+public class Answer
 {
-    Console.WriteLine($"Введенные числа равны `{firstNumber}`");
-}
-if (firstNumber > secondNumber)
-{
-    Console.WriteLine($"Первое число `{firstNumber}` больше чем второе число `{secondNumber}`");
-}
-if (firstNumber < secondNumber)
-{
-    Console.WriteLine($"Первое число `{firstNumber}` меньше чем второе число `{secondNumber}`");
+    static void CompareNumbers(int firstNumber, int secondNumber)
+    {
+        if (firstNumber == secondNumber)
+        {
+            Console.WriteLine($"Введенные числа равны `{firstNumber}`");
+        }
+        if (firstNumber > secondNumber)
+        {
+            Console.WriteLine($"Первое число `{firstNumber}` больше чем второе число `{secondNumber}`");
+        }
+        if (firstNumber < secondNumber)
+        {
+            Console.WriteLine($"Первое число `{firstNumber}` меньше чем второе число `{secondNumber}`");
+        }
+    }
+
+    static public void Main(string[] args)
+    {
+        int firstNumber, secondNumber;
+
+        if (args.Length >= 2)
+        {
+            firstNumber = int.Parse(args[0]);
+            secondNumber = int.Parse(args[1]);
+        }
+        else
+        {
+            firstNumber = 5;
+            secondNumber = 5;
+        }
+
+        CompareNumbers(firstNumber, secondNumber);
+    }
 }
 
-if (number % 2 == 0)
-{
-    Console.WriteLine($"Число `number` чётное");
-}
-else
-{
-    Console.WriteLine($"Число `number` нечётное");
-}
 
-if (firstNumber > secondNumber)
-{
-    Console.WriteLine($"Первое число `{firstNumber}` больше чем второе число `{secondNumber}`");
-}
-else if (firstNumber == secondNumber)
-{
-    Console.WriteLine($"Введённые числа равны `{firstNumber}`");
-}
-else
-{
-    Console.WriteLine($"Первое число `{firstNumber}` меньше чем второе число `{secondNumber}`");
-}
 
 // большее из 2 чисел я
 
@@ -52,16 +58,54 @@ else
 
 
 
-int max = a;
-if (max < b)
+// проверка на чётность / я
+
+if (number % 2 == 0)
 {
-    max = b;
+    Console.WriteLine($"Число `{number}` чётное");
 }
-if (max < c)
+else
 {
-    max = c;
+    Console.WriteLine($"Число `{number}` нечётное");
 }
-return max;
+
+// проверка на чётность / школа
+
+using System;
+
+class Answer
+{
+    static void CheckIfEven(int number)
+    {
+        if ((number % 2) == 0)
+        {
+            Console.WriteLine($"Число `{number}` чётное");
+        }
+        else
+        {
+            Console.WriteLine($"Число `{number}` нечётное");
+        }
+    }
+
+    static public void Main(string[] args)
+    {
+        int number;
+
+        if (args.Length >= 1)
+        {
+            number = int.Parse(args[0]);
+        }
+        else
+        {
+            number = 6;
+        }
+
+        CheckIfEven(number);
+    }
+}
+
+
+// вывести четные числа / я
 
 int i = 2;
 while (i <= number)
@@ -72,7 +116,7 @@ while (i <= number)
 
 
 
-//решение школы вывести четные числа
+// вывести четные числа / школа
 using System;
 
 public class Answer
@@ -144,3 +188,17 @@ public class Answer
         System.Console.WriteLine($"{result}");
     }
 }
+
+// максимальное из трёх чисел / я
+
+int max = a;
+if (max < b)
+{
+    max = b;
+}
+if (max < c)
+{
+    max = c;
+}
+return max;
+    }
