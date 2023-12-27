@@ -1,0 +1,15 @@
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/bin/Debug/net8.0/Task8
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/bin/Debug/net8.0/Task8.deps.json
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/bin/Debug/net8.0/Task8.runtimeconfig.json
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/bin/Debug/net8.0/Task8.dll
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/bin/Debug/net8.0/Task8.pdb
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.AssemblyInfoInputs.cache
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.AssemblyInfo.cs
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.csproj.CoreCompileInputs.cache
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.sourcelink.json
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.dll
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/refint/Task8.dll
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.pdb
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/Task8.genruntimeconfig.cache
+/Users/ilyaalex/C#/CSHARP/Less1/Task8/obj/Debug/net8.0/ref/Task8.dll
