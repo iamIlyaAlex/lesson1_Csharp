@@ -81,8 +81,8 @@
 //     Console.Write("NO. R =" + r);
 // }
 
-int n = 456;
-int result1 = n / 10;
-int result2 = result1 / 10;
-int digit = result2 % 10;
-Console.Write(result1);
+// int n = 456;
+// int result1 = n / 10;
+// int result2 = result1 / 10;
+// int digit = result2 % 10;
+// Console.Write(result1);
